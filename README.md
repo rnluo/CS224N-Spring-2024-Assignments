@@ -8,6 +8,6 @@ This repository documents my self-study of **CS224N** (Natural Language Processi
 - Answers to written questions embedded in LaTeX source files of original handouts
 
 ### Resources
-[Official course website](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/)
+[Official course website](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/)\
 [Lecture videos](https://youtu.be/DzpHeXVSC5I?si=1cCLzIKhwbUvhttR)
 
